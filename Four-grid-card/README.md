@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/asamoahe3/figmalandui-header-a](https://github.com/asamoahe3/figmalandui-header-a)
-- Live Site URL: [https://stunning-headers-a.netlify.app/](https://stunning-headers-a.netlify.app/)
+- Solution URL: [https://github.com/asamoahe3/FrontendMentor/tree/main/Four-grid-card](https://github.com/asamoahe3/FrontendMentor/tree/main/Four-grid-card)
+- Live Site URL: [https://four-feature-card.netlify.app/](https://four-feature-card.netlify.app/)
 
 ## My process
 
