@@ -5,11 +5,9 @@
   --cyan: hsl(180, 62%, 55%);
   --orange: hsl(34, 97%, 64%);
   --blue: hsl(212, 86%, 64%);
-
   --dark-blue: hsl(234, 12%, 34%);
   --grayish-blue: hsl(229, 6%, 66%);
   --light-gray: hsl(0, 0%, 98%);
-
   --box-shadow: 0 10px 15px 0 hsla(212, 86%, 64%, 0.13);
 }
 
@@ -31,7 +29,7 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: var(--light-gray);
   line-height: 1.5;
-  font-size: 15px;
+  font-size: 1rem;
 }
 
 /*Container item*/
@@ -48,6 +46,7 @@ body {
   font-weight: 200;
   text-align: center;
   margin-bottom: 1.5rem;
+  padding-top: 1.5rem;
 }
 
 .header > h1 .text-dark {
@@ -59,7 +58,7 @@ body {
 .header > p {
   color: var(--grayish-blue);
   text-align: center;
-  width: 60%;
+  width: 50%;
   margin: 0 auto;
   padding-bottom: 3rem;
 }
@@ -117,11 +116,10 @@ body {
 .card-item--inner > p {
   color: var(--grayish-blue);
   font-size: 0.8rem;
-  width: 100%;
 }
 
 /**card on small mobile screens*/
-@media (max-width: 767px) {
+@media (max-width: 700px) {
   .header {
     padding-bottom: 2.5rem;
   }
